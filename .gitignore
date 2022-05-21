@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/java/main/
+/config/mods/settings.json
+scp.bat
+/config/*.bin
+/config/*.log
+/config/
+/config/mods/
+/config/maps
